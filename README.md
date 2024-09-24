@@ -1,0 +1,3 @@
+# mern-auth
+
+- JWT Authentication
